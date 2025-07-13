@@ -16,9 +16,9 @@ DAX (Data Analysis Expressions) – for calculated columns/measures
 
 Power Query (M Language) – for data transformation and cleaning
 
-📂 Data Source
-
-Synthetic/Mock Sales Data (sample mobile sales dataset generated using ChatGPT).
+## 📂 Data Source
+- Synthetic/Mock Sales Data  
+- Sample dataset: `Mobile_Sales_Data.xlsx` (available in this repo)
 
 🌟 Features / Highlights
 
