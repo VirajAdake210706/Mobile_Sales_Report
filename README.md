@@ -7,6 +7,7 @@ Mobile Sales Performance Dashboard using Power BI
 This Power BI project presents a dynamic and interactive dashboard to analyze mobile phone sales across different regions, brands, and time periods. It helps businesses and stakeholders gain valuable insights into sales trends, product performance, and customer preferences.
 
 🛠️ Tech Stack
+
 Power BI (Data Visualization & Reporting)
 
 DAX (Data Analysis Expressions) – for calculated columns/measures
