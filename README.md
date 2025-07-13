@@ -55,3 +55,6 @@ Over 60% of customers rated 4★ or 5★, reflecting strong customer satisfactio
 
 📱 Product Leader:
 The iPhone SE was the top-selling model, indicating high demand for flagship features in mid-range pricing.
+
+📸 Screenshot
+
