@@ -15,9 +15,11 @@ DAX (Data Analysis Expressions) – for calculated columns/measures
 Power Query (M Language) – for data transformation and cleaning
 
 📂 Data Source
+
 Synthetic/Mock Sales Data (sample mobile sales dataset generated using ChatGPT).
 
 🌟 Features / Highlights
+
 📈 Interactive Sales Trends: Monthly/quarterly visual breakdowns of sales.
 
 🏆 Top Brands & Products: Identify highest-performing mobile brands and SKUs.
@@ -33,6 +35,7 @@ Synthetic/Mock Sales Data (sample mobile sales dataset generated using ChatGPT).
 🧼 Clean UI: Modern, responsive layout for management-level decision making.
 
 📌 Key Business Insights
+
 📅 Monthly Sales Trends:
 July recorded the highest mobile sales, while February saw the lowest performance, indicating potential seasonality or campaign impact.
 
