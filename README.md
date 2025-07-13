@@ -1,4 +1,4 @@
-# 📊 # 📊 Mobile Sales Report
+# 📊 Mobile Sales Report
 
 ## 📝 Project Title / Headline
 
