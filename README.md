@@ -1,62 +1,75 @@
 # 📊 Mobile_Sales_Report
 
-📝 Project Title / Headline
+## 📝 Project Title / Headline
 
-Mobile Sales Performance Dashboard using Power BI
+### Mobile Sales Performance Dashboard using Power BI
 
-📌 Short Description / Purpose
+
+## 📌 Short Description / Purpose
 
 This Power BI project presents a dynamic and interactive dashboard to analyze mobile phone sales across different regions, brands, and time periods. It helps businesses and stakeholders gain valuable insights into sales trends, product performance, and customer preferences.
 
-🛠️ Tech Stack
 
-Power BI (Data Visualization & Reporting)
+## 🛠️ Tech Stack
 
-DAX (Data Analysis Expressions) – for calculated columns/measures
+- **Power BI** – Data Visualization & Reporting
+- **DAX** – Data Analysis Expressions (for calculated columns/measures)
+- **Power Query (M Language)** – for data transformation and cleaning
 
-Power Query (M Language) – for data transformation and cleaning
 
 ## 📂 Data Source
-- Synthetic/Mock Sales Data  
+
+- Synthetic/Mock Sales Data
 - Sample dataset: `Mobile_Sales_Data.xlsx` (available in this repo)
 
-🌟 Features / Highlights
 
-📈 Interactive Sales Trends: Monthly/quarterly visual breakdowns of sales.
+## 🌟 Features / Highlights
 
-🏆 Top Brands & Products: Identify highest-performing mobile brands and SKUs.
+### 📈 Interactive Sales Trends
+- Monthly/quarterly visual breakdowns of sales.
 
-🌍 Region-wise Sales View: Understand geographic performance with map visuals.
+### 🏆 Top Brands & Products
+- Identify highest-performing mobile brands and SKUs.
 
-💰 Profit & Revenue Analysis: Deep dive into margins and total profit contributions.
+### 🌍 Region-wise Sales View
+- Understand geographic performance with map visuals.
 
-🎛️ Slicers & Filters: Easy segmentation by brand, date, region, and customer type.
+### 💰 Profit & Revenue Analysis
+- Deep dive into margins and total profit contributions.
 
-📉 KPIs & Cards: Snapshot of Total Sales, Revenue, Units Sold, and Profit.
+### 🎛️ Slicers & Filters
+- Easy segmentation by brand, date, region, and customer type.
 
-🧼 Clean UI: Modern, responsive layout for management-level decision making.
+### 📉 KPIs & Cards
+- Snapshot of Total Sales, Revenue, Units Sold, and Profit.
 
-📌 Key Business Insights
+### 🧼 Clean UI
+- Modern, responsive layout for management-level decision making.
 
-📅 Monthly Sales Trends:
-July recorded the highest mobile sales, while February saw the lowest performance, indicating potential seasonality or campaign impact.
 
-🍎 Brand Performance:
-Apple led the market with revenue totaling ₹161M, while Xiaomi had the lowest at ₹143M, highlighting a clear brand preference.
+## 📌 Key Business Insights
 
-🏙️ City-wise Performance:
-Delhi and Mumbai emerged as the top-performing cities, making them ideal targets for regional promotions and inventory stocking.
+### 📅 Monthly Sales Trends
+- July recorded the highest mobile sales, while February saw the lowest performance, indicating potential seasonality or campaign impact.
 
-💳 Payment Method Analysis:
-UPI was the most frequently used payment method, while credit card usage was negligible, suggesting customer preference for mobile-friendly or low-friction payment options.
+### 🍎 Brand Performance
+- Apple led the market with revenue totaling ₹161M, while Xiaomi had the lowest at ₹143M, highlighting a clear brand preference.
 
-🌟 Customer Satisfaction:
-Over 60% of customers rated 4★ or 5★, reflecting strong customer satisfaction and potential for brand advocacy.
+### 🏙️ City-wise Performance
+- Delhi and Mumbai emerged as the top-performing cities, making them ideal targets for regional promotions and inventory stocking.
 
-📱 Product Leader:
-The iPhone SE was the top-selling model, indicating high demand for flagship features in mid-range pricing.
+### 💳 Payment Method Analysis
+- UPI was the most frequently used payment method, while credit card usage was negligible, suggesting customer preference for mobile-friendly or low-friction payment options.
 
-📸 Screenshot
+### 🌟 Customer Satisfaction
+- Over 60% of customers rated 4★ or 5★, reflecting strong customer satisfaction and potential for brand advocacy.
+
+### 📱 Product Leader
+- The iPhone SE was the top-selling model, indicating high demand for flagship features in mid-range pricing.
+
+---
+
+## 📸 Screenshot
 
 ![Mobile Sales Dashboard](https://github.com/VirajAdake210706/Mobile_Sales_Report/raw/main/Snapshot%20of%20Mobile_Sales_Dashboard.png)
 
